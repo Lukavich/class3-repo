@@ -12,8 +12,8 @@ Welcome to my repository
 
 ---
 
-'''python
-print("Welcome to Fintech")
-'''
+```python
+print("Welcome to FinTech!")
+```
 
 **This text will be in bold**
