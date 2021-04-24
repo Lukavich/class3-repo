@@ -10,6 +10,8 @@ Welcome to my repository
 
 *This text will be in italics*
 
+---python
+print("Welcome to Fintech")
 ---
 
 **This text will be in bold**
