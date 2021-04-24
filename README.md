@@ -17,3 +17,7 @@ print("Welcome to FinTech!")
 ```
 
 **This text will be in bold**
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/lukescanlon/)
