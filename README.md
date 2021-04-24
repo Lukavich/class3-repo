@@ -21,3 +21,6 @@ print("Welcome to FinTech!")
 ---
 
 [LinkedIn](https://www.linkedin.com/in/lukescanlon/)
+
+---
+![Nice Drumset](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhendrix.rolique.space%2Fhendrixdrums%2Ffiles%2F2018%2F01%2FHendrix-Drums-Perfect-Ply-Walnut-Drum-Set-Satin-Finish-5-Piece-Rock.png&f=1&nofb=1)
