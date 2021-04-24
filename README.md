@@ -9,4 +9,7 @@
 Welcome to my repository
 
 *This text will be in italics*
+
+---
+
 **This text will be in bold**
